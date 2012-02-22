@@ -7,7 +7,7 @@
   "bugs" : { "url" : "http://github.com/balkian" },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balkian/hookio-mailer.git"
+    "url": "git://github.com/balkian/Hookio-Mailer.git"
   },
   "bin": {
      "hookio-calendar": "./bin/mailer"

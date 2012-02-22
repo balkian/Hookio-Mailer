@@ -1,0 +1,23 @@
+{
+  "author": "J.Fernando Sánchez <balkian@gmail.com>",
+  "name": "hook.io-mailer",
+  "description": "Hook for mail integration",
+  "keywords" : [ "hook", "hook.io", "calendar" ],
+  "version": "0.0.1",
+  "bugs" : { "url" : "http://github.com/balkian" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balkian/hookio-mailer.git"
+  },
+  "bin": {
+     "hookio-calendar": "./bin/mailer"
+   },
+  "main": "./lib/mailer",
+  "engines": {
+    "node": ">= v0.4.7"
+  },
+  "dependencies": {
+    "hook.io" : "0.8.x"
+  },
+  "devDependencies": {}
+}

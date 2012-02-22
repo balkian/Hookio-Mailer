@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+
+var Hook = require('../lib/mailer').MailerHook;
+
+var hook = new Hook({
+  name: "mailer"
+});
+
+
+// Hook.start defaults to localhost
+// it can accept dnode constructor options ( for remote connections )
+// these hooks can be started on diffirent machines / networks / devices
+hook.start();

@@ -4,7 +4,7 @@
   "description": "Hook for mail integration",
   "keywords" : [ "hook", "hook.io", "calendar" ],
   "version": "0.0.1",
-  "bugs" : { "url" : "http://github.com/balkian" },
+  "bugs" : { "url" : "http://github.com/balkian/Hookio-Mailer/issues" },
   "repository": {
     "type": "git",
     "url": "git://github.com/balkian/Hookio-Mailer.git"

@@ -10,7 +10,7 @@
     "url": "git://github.com/balkian/Hookio-Mailer.git"
   },
   "bin": {
-     "hookio-calendar": "./bin/mailer"
+     "hookio-mailer": "./bin/mailer"
    },
   "main": "./lib/mailer",
   "engines": {

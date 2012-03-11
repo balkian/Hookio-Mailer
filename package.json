@@ -17,7 +17,12 @@
     "node": ">= v0.4.7"
   },
   "dependencies": {
+<<<<<<< HEAD
     "hook.io" : "0.8.x"
+=======
+    "hook.io" : "0.8.x",
+    "mailer" : "*"
+>>>>>>> 0e1e4a8... Added mailer(*) as a dependency
   },
   "devDependencies": {}
 }

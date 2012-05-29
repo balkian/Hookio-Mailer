@@ -3,7 +3,7 @@
   "name": "hook.io-mailer",
   "description": "Hook for mail integration",
   "keywords" : [ "hook", "hook.io", "mailer" ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bugs" : { "url" : "http://github.com/balkian/Hookio-Mailer/issues" },
   "repository": {
     "type": "git",

@@ -10,4 +10,4 @@ var hook = new Hook({
 // Hook.start defaults to localhost
 // it can accept dnode constructor options ( for remote connections )
 // these hooks can be started on diffirent machines / networks / devices
-hook.start();
+hook.connect();
